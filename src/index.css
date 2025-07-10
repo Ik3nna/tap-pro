@@ -136,7 +136,7 @@
   }
   .container2 > article {
     width: 95%;
-    margin: auto;
+    margin: 30px auto 10px;
   }
   .container2 > article  article {
     width: 100%;
@@ -183,7 +183,7 @@
     display: none;
   }
   .container1 article {
-    margin: auto;
+    margin: 0px auto 20px;
     max-width: 100%;
     width: 95%;
   }
@@ -223,8 +223,6 @@
   .arrow.open {
     transform: rotate(-180deg);
   }
-
-
   .dropdown-wrapper {
     position: absolute;
     top: 100%;
