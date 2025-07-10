@@ -136,7 +136,7 @@
   }
   .container2 > article {
     width: 95%;
-    margin: 30px auto 10px;
+    margin: auto;
   }
   .container2 > article  article {
     width: 100%;
@@ -162,6 +162,7 @@
     text-align: center;
     row-gap: 20px;
     width: 100%;
+    margin-top: 50px;
   }
   .mobile-tapro {
     width: 160px;
